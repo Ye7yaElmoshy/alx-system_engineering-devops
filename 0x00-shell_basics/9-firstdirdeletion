@@ -1,2 +1,2 @@
 #!/bin/bash
-rmdir -r /tmp/myfirst_directory
+rmdir -r /tmp/myfirst_directory/
